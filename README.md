@@ -35,6 +35,6 @@ TIP: You're expected to do this project in  your own Github Repository (..but I 
 
   
   
-  Please do not hesistate to reach out to jephtah@kippa.africa if you have any questions or doubts to clear.
+  Please do not hesitate to reach out to jephtah@kippa.africa if you have any questions or doubts to clear.
   
   Goodluck Soldier🚀
