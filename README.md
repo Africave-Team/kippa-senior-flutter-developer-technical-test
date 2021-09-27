@@ -2,7 +2,7 @@
 This repository houses the technical interview test for a senior flutter engineer @ Kippa
 
 
-# Overiview
+# Overview
 
 This technical test allows you to choose between two projects. Read more about it below. 
 
