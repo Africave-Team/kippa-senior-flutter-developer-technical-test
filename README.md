@@ -20,7 +20,7 @@ This technical test allows you to choose between two projects. Read more about i
 ## Project 2
 
 Okay maybe we understimated your ninja skills🥷🏾, so the second project is totally up to you! Sweet right? 
-Maybe yoy have something better to show us (... we really do hope so 🙂), we want you to tell us what you to build instead. 
+Maybe you have something better to show us (... we really do hope so 🙂), we want you to tell us what you to build instead. 
 
 Please send an email with Subject Name: ### Kippa Flutter Engineer Technical Challenge (Project Choice)
 
