@@ -28,7 +28,7 @@ Then clearly communicate the project you'd like to build or what you intend to d
 
   
 # How to submit
-To sumbit this assessment please click this link : https://forms.gle/r3qinnGXhgfYBTJE6
+To submit this assessment please click this link : https://forms.gle/r3qinnGXhgfYBTJE6
 
 
 TIP: You're expected to do this project in  your own Github Repository (..but I bet you already knew that master🥷🏾)
