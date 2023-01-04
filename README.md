@@ -4,7 +4,7 @@ This repository houses the technical interview test for a senior flutter enginee
 
 # Overview
 
-This is a Technical Test to 
+This is a Technical Test to test your familiarity with the mobile technology we use at Kippa. You are expected to submit within 72hours of receipt.
 
 
 ## Project 1
