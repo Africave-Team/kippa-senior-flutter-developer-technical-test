@@ -9,7 +9,7 @@ This is a Technical Test to test your familiarity with the mobile technology we 
 
 ## Project 1
 
-- Using a provider based architecture(Provider, Riverpod, Stacked)build a mobile app with the following caveats:
+- Using a provider based architecture(Provider, Riverpod, Stacked)build a Flutter Web App with the following caveats:
 - Add a Functional Signup and Login Screen with local DB(use hive or any document DB) 
 - Using the https://newsapi.org/ , get News that has the Keyword "Business", "Africa", Startup". It is totally up to you how you want to display this, 
   Let's see the genius! 😃
